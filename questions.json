@@ -1,0 +1,118 @@
+{
+	"games" : [
+		{
+		    "questions" : [
+		        {
+		            "question" : "The first step before growing crops is _________ of the soil.",
+		            "content" : [
+		                "Fertilisation",
+		                "Plantation",
+		                "Watering",
+						"Preparation"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "Damaged seeds would __________ water.",
+		            "content" : [
+		                "Sink in",
+		                "Rupture in",
+						"Float on",
+		                "None of these above"
+		            ],
+		            "correct" : 2
+		        },
+		        {
+		            "question" : "Which of the following is not a rabi crop?",
+		            "content" : [
+		                "Mustard",
+		                "Gram",
+		                "Wheat",
+		                "Rice"
+		            ],
+		            "correct" : 3
+		        },
+		        {
+		            "question" : "The main source of irrigation is:",
+		            "content" : [
+		                "Rainfall",
+		                "Tubewell",
+		                "Wells",
+		                "River"
+		            ],
+		            "correct" : 0
+		        },
+		        {
+		            "question" : "It is used for loosening of the soil:",
+		            "content" : [
+		                "Cultivator",
+		                "Plough",
+		                "Funnel",
+		                "Tractor"
+		            ],
+		            "correct" : 1
+		        },
+				{
+				    "correct": 3,
+				    "content": [
+				        "Insects",
+				        "Bacteria",
+				        "Pest",
+				        "Fungus"
+				    ],
+				    "question": "Fungicides are used to kill:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Crop Rotation",
+				        "Farming",
+				        "Winnowing",
+				        "Broadcasting"
+				    ],
+				    "question": "Scaterring of seeds is called:"
+				},
+				{
+				    "correct": 0,
+				    "content": [
+				        "NH3",
+				        "H2O",
+				        "Al2(SO4)2",
+				        "None of the above"
+				    ],
+				    "question": "Formula of Ammonia is:"
+				},
+				{
+				    "correct": 1,
+				    "content": [
+				        "Agriculture",
+				        "Symbiosis",
+				        "Nitogen-Fixing",
+				        "Nodules"
+				    ],
+				    "question": "Working together for mutual benifits is called:"
+				},
+				{
+				    "correct": 3,
+				    "content": [
+				        "Farmers",
+				        "Oxygen",
+				        "Plants",
+				        "Cyanobacteria"
+				    ],
+				    "question": "Nitogen cycle is carried out by:"
+				},
+				{
+				    "correct": 2,
+				    "content": [
+				        "Made",
+				        "By",
+				        "Sharad",
+				        "Kumar Singh"
+				    ],
+				    "question": "You Won!"
+				}
+		    ]
+		}
+	]
+}
